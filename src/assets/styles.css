@@ -1,0 +1,19 @@
+/* importe do google fonts - lato */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,400;1,700&family=Roboto:ital,wght@0,700;1,400&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: "Lato", sans-serif ;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
